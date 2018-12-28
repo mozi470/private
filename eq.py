@@ -11,6 +11,7 @@ a = 1.4
 dx=(x_end - x_ini)/N
 dx2=dx**2
 
+#hennkoutn
 
 def IC():
     global u
